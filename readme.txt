@@ -1,7 +1,7 @@
 === Team results ===
 Contributors: Ulf
 Donate link: http://didoune.fr/
-Tags: team, results, sport, esport, ladder, lightbox
+Tags: team, results, sport, esport, ladder, lightbox, widget, score, match, championship, tournament
 Requires at least: 2.8.0
 Tested up to: 2.8.4
 Stable tag: trunk
