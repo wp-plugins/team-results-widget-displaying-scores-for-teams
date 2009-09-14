@@ -93,17 +93,17 @@ function listScore($games, $date)
 	{
 		//Display in first the name of the team where the game was played, if it's neutral: first our team
 		if($games['place']=='O') //opponent place
-			echo "<li>". $games['opponent']."  <span class='score'>".  $games['opponent_score']."-". $games['team_score']. "</span> ". $games['name']."<br/>(".$games['game_type'].")</li><br/>";		
+			echo "<li><a href='javascript:openbox(1);'>". $games['opponent']."  <span class='score'>".  $games['opponent_score']."-". $games['team_score']. "</span> ". $games['name']."<br/>(".$games['game_type'].")</a></li><br/>";		
 		else
-			echo "<li>". $games['name']."  <span class='score'>".  $games['team_score']."-". $games['opponent_score']. "</span> ". $games['opponent']."<br/>(".$games['game_type'].")</li><br/>";
+			echo "<li><a href='javascript:openbox(1);'>". $games['name']."  <span class='score'>".  $games['team_score']."-". $games['opponent_score']. "</span> ". $games['opponent']."<br/>(".$games['game_type'].")</a></li><br/>";
 	}
 	else
 	{
 		$date= date("d/m/y", strtotime($games['date']));
 		if($games['place']=='O') //opponent place
-			echo "<br/><h4>". $date ."</h4><br/><li> ". $games['opponent']." <span class='score'> ".  $games['opponent_score']."-". $games['team_score']. "</span> ". $games['name']."<br/>(".$games['game_type'].")</li><br/>";
+			echo "<br/><h4>". $date ."</h4><br/><li><a href='javascript:openbox(1);'>". $games['opponent']." <span class='score'> ".  $games['opponent_score']."-". $games['team_score']. "</span> ". $games['name']."<br/>(".$games['game_type'].")</a></li><br/>";
 		else
-			echo "<br/><h4>". $date ."</h4><br/><li> ". $games['name']." <span class='score'>".  $games['team_score']."-". $games['opponent_score']. "</span> ". $games['opponent']."<br/>(".$games['game_type'].")</li><br/>";
+			echo "<br/><h4>". $date ."</h4><br/><li><a href='javascript:openbox(1);'> ". $games['name']." <span class='score'>".  $games['team_score']."-". $games['opponent_score']. "</span> ". $games['opponent']."<br/>(".$games['game_type'].")</a></li><br/>";
 	}
 	return $date;
 }
