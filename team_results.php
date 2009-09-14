@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Team results
-Plugin URI: http://didoune.fr
+Plugin URI: http://didoune.fr/blog/team-results/
 Description: Display results of teams playing sport or e-sport
 Author: Thomas Lamey
 Version: 1.0
