@@ -20,8 +20,9 @@ all the results. There is also filters on that table to browse the results more 
 
 The plugin add a new menu item on the administration page to manage the team, the results and the options of the plugin
 
-For more information: send an e-mail to Ulf at lamey.thomas@gmail.com
+To see some screenshots of the plugin, visit: http://didoune.fr/blog/team-results/
 
+For more information or suggestions, send an email to Ulf at lamey.thomas@gmail.com.
 
 
 == Installation ==
