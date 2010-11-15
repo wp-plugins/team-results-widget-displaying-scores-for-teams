@@ -3,8 +3,8 @@ Contributors: Ulf
 Donate link: http://didoune.fr/
 Tags: team, results, sport, esport, ladder, lightbox, widget, score, match, championship, tournament
 Requires at least: 2.8.0
-Tested up to: 2.8.4
-Stable tag: trunk
+Tested up to: 3.0.1
+Stable tag: 1.1
 
 
 The goal of this plugin is to display on a widget the score of teams playing sport or esport
