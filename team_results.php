@@ -4,12 +4,12 @@ Plugin Name: Team results
 Plugin URI: http://didoune.fr/blog/team-results/
 Description: Display results of teams playing sport or e-sport
 Author: Thomas Lamey
-Version: 1.0
+Version: 1.1
 Author URI: http://didoune.fr
 */
 
 
-/*  Copyright 2009  Thomas Lamey  (email : lamey.thomas@gmail.com)
+/*  Copyright 2010  Thomas Lamey  (email : lamey.thomas@gmail.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
