@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeamResults 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-15 16:41+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: lkjlkjlkj <lkjklj>\n"
+"Language-Team: Ulf <lamey.thomas@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:11
+msgid "Options saved."
+msgstr "Options sauvegardées"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:31
+msgid "New result saved."
+msgstr "Nouveau résultat sauvegardé"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:43
+msgid "Result deleted."
+msgstr "Résultat supprimé"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:72
+msgid "Result updated."
+msgstr "Résultat mis à jour"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:81
+msgid "Team Results Display Options"
+msgstr "Team Results: Options d'affichage"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:93
+msgid "Team Results Settings"
+msgstr "Team Results Reglages"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:100
+msgid "Number of results displayed on the widget:"
+msgstr "Nombre de résultats affichés sur le widget"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:103
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:164
+msgid " ex: 25/12/08"
+msgstr " ex: 25/12/08"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:110
+msgid "Show colors (green:victory, red:defeat)"
+msgstr "Montrer couleurs (vert:victoire, rouge:défaite)"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:121
+msgid "Update Options"
+msgstr "Mettre à jour les options"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:141
+msgid "Add a new result"
+msgstr "Ajouter un nouveau résultat"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:154
+msgid "Date (dd/mm/yy):"
+msgstr "Date (jj/mm/aa):"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:171
+msgid "Game type:"
+msgstr "Type de match"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:174
+msgid " ex: Championship, Tournament"
+msgstr "ex: Championnat, Amical, Coupe"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:181
+msgid "Team:"
+msgstr "Equipe:"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:208
+msgid "If not there:"
+msgstr "Si absent:"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:208
+msgid "Add a team"
+msgstr "Ajouter une équipe"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:220
+msgid "Team score:"
+msgstr "Score de l'équipe:"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:229
+msgid "Opponent: "
+msgstr "Adversaire:"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:238
+msgid "Opponent score: "
+msgstr "Score de l'adversaire:"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:247
+msgid "Place of the Match: "
+msgstr "Lieu du match:"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:250
+msgid "Home (H) "
+msgstr "Domicile (H)"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:251
+msgid "Opponent place (O) "
+msgstr "Exterieur (O)"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:252
+msgid "Neutral / Don't care (N)"
+msgstr "Terrain neutre (N)"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:277
+msgid "Update Result"
+msgstr "Mettre à jour"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:279
+msgid "Add Result"
+msgstr "Ajouter un résultat"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:291
+msgid "Browsing the results"
+msgstr "Parcourir les résultats"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:308
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/lightbox.php:20
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/team_results.php:51
+msgid "No results for the moment"
+msgstr "Pas de résultats pour le moment"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:315
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:339
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/lightbox.php:27
+msgid "Date"
+msgstr "Date"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:315
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:339
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/lightbox.php:27
+msgid "Game Type"
+msgstr "Type de match"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:315
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:339
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/lightbox.php:27
+msgid "Team"
+msgstr "Equipe"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:315
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:339
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/lightbox.php:27
+msgid "Team score"
+msgstr "Score de l'équipe"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:315
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:339
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/lightbox.php:27
+msgid "Opponent"
+msgstr "Adversaire"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:315
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:339
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/lightbox.php:27
+msgid "Opponent score"
+msgstr "Score de l'adversaire"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:315
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:339
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/lightbox.php:27
+msgid "Location"
+msgstr "Lieu"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:322
+msgid "Delete"
+msgstr "Supprimer"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_results.php:328
+msgid "Edit"
+msgstr "Editer"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_team.php:14
+msgid "New team created."
+msgstr "Nouvelle équipe crée."
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_team.php:29
+msgid "Team and results deleted."
+msgstr "Equipe et résultats supprimés"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_team.php:35
+msgid "Team Management"
+msgstr "Gestion des équipes"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_team.php:36
+msgid "Add a Team"
+msgstr "Ajouter une équipe"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_team.php:41
+msgid "Name of the team: "
+msgstr "Nom de l'équipe:"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_team.php:45
+msgid "Create team"
+msgstr "Créer une équipe"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_team.php:49
+msgid "Browsing the teams"
+msgstr "Parcourir les équipes"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_team.php:65
+msgid "No team for the moment"
+msgstr "Pas d'équipe pour le moment"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_team.php:72
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_team.php:86
+msgid "Team name"
+msgstr "Nom de l'équipe"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/add_team.php:79
+msgid "Delete team and all the corresponding results"
+msgstr "Supprimer l'équipe et ses résultats"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/lightbox.php:5
+msgid "Close (X)"
+msgstr "Fermer (X)"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/lightbox.php:6
+msgid "All the results"
+msgstr "Tout les résultats"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/lightbox.php:35
+msgid "Outside"
+msgstr "Extérieur"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/lightbox.php:38
+msgid "Home"
+msgstr "Domicile"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/lightbox.php:41
+msgid "Neutral"
+msgstr "Neutre"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/misc.php:231
+msgid "All"
+msgstr "Tout"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/team_results.php:68
+msgid "More Results"
+msgstr "Plus de résultats"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/team_results.php:76
+msgid "View all results"
+msgstr "Voir tout les résultats"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/team_results.php:145
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/team_results.php:146
+msgid "Team Results"
+msgstr "Team Results"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/team_results_admin.php:18
+msgid "Title: "
+msgstr "Titre:"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/team_results_admin.php:19
+msgid "Number of results displayed: "
+msgstr "Nombre de résultats affichés"
+
+#: D:\Program
+#: Files\EasyPHP-5.3.2\www\wp\wp-content\plugins\team-results-widget-displaying-scores-for-teams/team_results_admin.php:19
+msgid " ex: 5"
+msgstr " ex: 5"
+
