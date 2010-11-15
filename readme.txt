@@ -22,7 +22,7 @@ The plugin add a new menu item on the administration page to manage the team, th
 
 To see some screenshots of the plugin, visit: http://didoune.fr/blog/team-results/
 
-For more information or suggestions, send an email to Ulf at lamey.thomas@gmail.com.
+For more information or suggestions, send an email at lamey.thomas[at]gmail[dot]com
 
 
 == Installation ==
@@ -39,7 +39,13 @@ This section describes how to install the plugin and get it working.
 
 == Changelog ==
 
-= 1.0 =
+= 1.1: November 2010  =
+* Modification of the admin interface
+* Dutch translation added (Thanks to Ruben Janssen)
+
+For a full list of modification, please visit http://didoune.fr/blog/team-results/
+
+= 1.0: September 2009 =
 * First version of the plugin
  
 
