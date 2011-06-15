@@ -1,10 +1,4 @@
 
-	<div id="filter"></div>
-	<div id="box">
-	<span id="boxtitle"></span>
-	<a href="#"  onclick="closebox()" style='float:right;'><?php _e( 'Close (X)','TeamResults'); ?></a>
-	<h2><?php _e( 'All the results','TeamResults'); ?></h2><br />
-
 <?php
 
 
@@ -88,5 +82,4 @@
 	
 	
 	</script>
-		
 		

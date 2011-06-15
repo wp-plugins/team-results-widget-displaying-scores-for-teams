@@ -1,12 +1,19 @@
-	
+	<script type="text/javascript" src="../wp-content/plugins/teamresults/scripts/jscolor.js"></script>
 	<?php 
 		// Processing for the option
 		if($_POST['tr_hidden'] == 'Y') {
 			//Form data sent
+			$tr_title = $_POST['teamresults_title'];
+			update_option('teamresults_title', $tr_title);
 			$tr_number = $_POST['teamresults_number'];
 			update_option('teamresults_number', $tr_number);
 			$tr_color = $_POST['teamresults_color'];
 			update_option('teamresults_color', $tr_color);
+			$tr_color_victory = $_POST['color_victory'];
+			update_option('teamresults_color_victory', $tr_color_victory);
+			$tr_color_defeat = $_POST['color_defeat'];
+			update_option('teamresults_color_defeat', $tr_color_defeat);
+			
 			?>
 			<div class="updated"><p><strong><?php _e('Options saved.','TeamResults' ); ?></strong></p></div>
 			<?php
@@ -14,6 +21,12 @@
 			//Normal page display
 			$tr_number = get_option('teamresults_number');
 			$tr_color = get_option('teamresults_color');
+			$tr_color_victory = get_option('teamresults_color_victory');
+			if($tr_color_victory == null)
+				$tr_color_victory = "00FF00";
+			$tr_color_defeat = get_option('teamresults_color_defeat');
+			if($tr_color_defeat == Null)
+				$tr_color_defeat = "FF0000";
 		}
 		//Processing for the new result
 		if($_POST['tr_hidden1'] == 'Y') {
@@ -95,24 +108,55 @@
 			
 							<table class="form-table">
 				<tbody>
+				
+				
+				<tr valign="top">
+				<th scope="row">
+				<?php _e("Title: ",'TeamResults' ); ?>
+				</th>
+				<td>
+				<input type="text" name="teamresults_title" value="<?php echo $tr_title; ?>" size="20">
+				</td>
+				</tr>
+				
 				<tr valign="top">
 				<th scope="row">
 				<label for="result_date"><?php _e('Number of results displayed on the widget:','TeamResults');?> </label>
 				</th>
 				<td>
-				<input id="teamresults_number" class="regular-text" type="text"  name="teamresults_number" value="<?php echo $tr_number; ?>"/><?php _e(" ex: 25/12/08",'TeamResults' ); ?>
+				<input id="teamresults_number" class="regular-text" type="text"  name="teamresults_number" value="<?php echo $tr_number; ?>"/><?php _e(" ex: 5",'TeamResults' ); ?>
 				</td>
 				</tr>
 				
 				
-								<tr valign="top">
+				<tr valign="top">
 				<th scope="row">
-				<label for="result_date"><?php _e('Show colors (green:victory, red:defeat)','TeamResults');?></label>
+				<label for="result_date"><?php _e('Show colors','TeamResults');?></label>
 				</th>
 				<td>
 				<input id="teamresults_color"  type="checkbox"  name="teamresults_color" <?php if ($tr_color =="on") echo 'checked="checked"'; ?> />
 				</td>
 				</tr>
+				<? //Modification v1.2: Add color choice ?>
+				<tr valign="top">
+					<th scope="row">
+						<label for="result_date"><?php _e('Color Victory:','TeamResults');?></label>
+					</th>
+					<td>
+						<input class="color" value="<?php echo $tr_color_victory; ?>" id="color_victory" name="color_victory" />
+					</td>
+				</tr>
+				<tr valign="top">
+					<th scope="row">
+						<label for="result_date"><?php _e('Color Defeat:','TeamResults');?></label>
+					</th>
+					<td>
+						<input class="color" value="<?php echo $tr_color_defeat; ?>" id="color_defeat" name="color_defeat" />
+					</td>
+				</tr>
+
+				
+				
 				
 				</tbody>
 				</table>
@@ -160,8 +204,7 @@
 					echo substr($edit['date'],8,2).'/'.substr($edit['date'],5,2).'/'.substr($edit['date'],2,2); 
 				}
 				
-				?>
-				"/><?php _e(" ex: 25/12/08", 'TeamResults' ); ?>
+				?>"/><?php _e(" ex: 25/12/08", 'TeamResults' ); ?>
 				</td>
 				</tr>
 				
@@ -205,7 +248,7 @@
 					}
 				 }
 
-				echo'</select>'.__('If not there:', 'TeamResults').'<a href="admin.php?page=tr_team">'.__('Add a team', 'TeamResults').'</a>';
+				echo'</select>'.__('If not there:', 'TeamResults').' <a href="admin.php?page=tr_team">'.__('Add a team', 'TeamResults').'</a>';
 								
 				
 				?>
@@ -345,6 +388,8 @@
 				}
 				?>
 				
+				
+							
 
 			 
 			 <br/>
