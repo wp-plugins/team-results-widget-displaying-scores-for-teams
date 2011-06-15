@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeamResults 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-15 15:21+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Thomas Lamey <lamey.thomas@gmail.com>\n"
+"Language-Team: Ulf <lamey.thomas@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:18
+msgid "Options saved."
+msgstr "Einstellungen gespeichert."
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:44
+msgid "New result saved."
+msgstr "Neue Ergebnisse gespeichert."
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:56
+msgid "Result deleted."
+msgstr "Ergebnisse gelöscht."
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:85
+msgid "Result updated."
+msgstr "Ergebnisse aktualisiert."
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:94
+msgid "Team Results Display Options"
+msgstr "Team Result Anzeige Optionen"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:106
+msgid "Team Results Settings"
+msgstr "Team Result Einstellungen"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:115
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results_admin.php:18
+msgid "Title: "
+msgstr "Titel:"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:124
+msgid "Number of results displayed on the widget:"
+msgstr "Im Widget angezeigte Zahl von Ergebnissen:"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:127
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results_admin.php:19
+msgid " ex: 5"
+msgstr " Beispiel: 5"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:134
+msgid "Show colors"
+msgstr "Zeige Farben:"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:143
+msgid "Color Victory:"
+msgstr "Farbe Sieg:"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:151
+msgid "Color Defeat:"
+msgstr "Farbe Niederlage: "
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:165
+msgid "Update Options"
+msgstr "Änderungen speichern."
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:185
+msgid "Add a new result"
+msgstr "Neues Ergebnis hinzufügen"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:198
+msgid "Date (dd/mm/yy):"
+msgstr "Datum (dd/mm/yy):"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:207
+msgid " ex: 25/12/08"
+msgstr " Beispiel: 25/12/08"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:214
+msgid "Game type:"
+msgstr "Spieltyp:"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:217
+msgid " ex: Championship, Tournament"
+msgstr " Beispiel: Championship, Tournament"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:224
+msgid "Team:"
+msgstr "Team:"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:251
+msgid "If not there:"
+msgstr "Falls nicht da:"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:251
+msgid "Add a team"
+msgstr "Mannschaft hinzufügen"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:263
+msgid "Team score:"
+msgstr "eigene Punkte/Tore:"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:272
+msgid "Opponent: "
+msgstr "Gegner: "
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:281
+msgid "Opponent score: "
+msgstr "Gegenpunkte/tore: "
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:290
+msgid "Place of the Match: "
+msgstr "Spielort: "
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:293
+msgid "Home (H) "
+msgstr "Heim (H) "
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:294
+msgid "Opponent place (O) "
+msgstr "Gegnerspielorg (O) "
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:295
+msgid "Neutral / Don't care (N)"
+msgstr "Neutral / unwichtig (N)"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:320
+msgid "Update Result"
+msgstr "Update Ergebnis"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:322
+msgid "Add Result"
+msgstr "Ergebnis hinzufügen"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:334
+msgid "Browsing the results"
+msgstr "In den Ergebnissen blättern"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:351
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/lightbox.php:20
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/results_filter.php:14
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:51
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:130
+msgid "No results for the moment"
+msgstr "Im Moment keine Ergebnisse vorhanden"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:358
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:382
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/lightbox.php:27
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/results_filter.php:21
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:135
+msgid "Date"
+msgstr "Datum"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:358
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:382
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/lightbox.php:27
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/results_filter.php:21
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:135
+msgid "Game Type"
+msgstr "Spieltyp"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:358
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:382
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/lightbox.php:27
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/results_filter.php:21
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:135
+msgid "Team"
+msgstr "Mannschaft"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:358
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:382
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/lightbox.php:27
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/results_filter.php:21
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:136
+msgid "Team score"
+msgstr "eigene Punkte/Tore"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:358
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:382
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/lightbox.php:27
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/results_filter.php:21
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:136
+msgid "Opponent"
+msgstr "Gegner"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:358
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:382
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/lightbox.php:27
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/results_filter.php:21
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:136
+msgid "Opponent score"
+msgstr "Gegenpunkte/tore"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:358
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:382
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/lightbox.php:27
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/results_filter.php:21
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:136
+msgid "Location"
+msgstr "Spielort"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:365
+msgid "Delete"
+msgstr "Löschen"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_results.php:371
+msgid "Edit"
+msgstr "Edit"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_team.php:14
+msgid "New team created."
+msgstr "Neue Mannschaft erstellt.."
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_team.php:29
+msgid "Team and results deleted."
+msgstr "Mannschaft und Ergebnisse gelöscht."
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_team.php:35
+msgid "Team Management"
+msgstr "Team Management"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_team.php:36
+msgid "Add a Team"
+msgstr "Eine Mannschaft hinzufügen:"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_team.php:41
+msgid "Name of the team: "
+msgstr "Name der Mannschaft: "
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_team.php:45
+msgid "Create team"
+msgstr "Mannschaft erstellen"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_team.php:49
+msgid "Browsing the teams"
+msgstr "Mannschaftsübersicht"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_team.php:65
+msgid "No team for the moment"
+msgstr "Es sind noch keine Mannschaften vorhanden."
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_team.php:72
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_team.php:86
+msgid "Team name"
+msgstr "Mannschaftsname"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/add_team.php:79
+msgid "Delete team and all the corresponding results"
+msgstr "Mannschaft samt Ergebnissen löschen"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/lightbox.php:5
+msgid "Close (X)"
+msgstr "Schließen (X)"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/lightbox.php:6
+msgid "All the results"
+msgstr "Ergebnisübersicht"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/lightbox.php:35
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/results_filter.php:29
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:143
+msgid "Outside"
+msgstr "Outside"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/lightbox.php:38
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/results_filter.php:32
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:146
+msgid "Home"
+msgstr "Heim"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/lightbox.php:41
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/results_filter.php:35
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:149
+msgid "Neutral"
+msgstr "Neutral"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/misc.php:231
+msgid "All"
+msgstr "Alle"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:68
+msgid "More Results"
+msgstr "mehr Ergebnisse"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:76
+msgid "View all results"
+msgstr "Zeige alle Ergebnisse"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:201
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results.php:202
+msgid "Team Results"
+msgstr "Mannschaftsergebnisse"
+
+#: G:\wamp\www\wordpress\wp-content\plugins\teamresults/team_results_admin.php:19
+msgid "Number of results displayed: "
+msgstr "Zahl der angezeigten Ergebnisse: "
+
+#~ msgid "Show colors (green:victory, red:defeat)"
+#~ msgstr "Zeige Farben (grün:Sieg, rot:Niederlage)"
